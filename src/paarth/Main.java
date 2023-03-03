@@ -1,4 +1,4 @@
-
+package paarth;
 public class Main {
     public static void main(String[] args) {
         class student{
@@ -10,7 +10,6 @@ public class Main {
                 this.age = 18;
                 this.rollNumber=60;
             }
-
         }
         student paarth = new student();
         System.out.println(paarth.name);
